@@ -1,0 +1,9 @@
+pi-cluster-master1.yaml
+pi-cluster-master2.yaml
+pi-cluster-master3.yaml
+pi-cluster-worker1.yaml
+pi-cluster-worker2.yaml
+pi-cluster-worker3.yaml
+pi-cluster-worker4.yaml
+pi-cluster-worker5.yaml
+talosconfig

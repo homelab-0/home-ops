@@ -6,7 +6,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 30m
-  url: "https://github.com/homelab-0/pi-cluster.git"
+  url: "https://github.com/homelab-0/pi-k8s.git"
   secretRef:
     name: github-deploy-key
   ref:
